@@ -1,0 +1,13 @@
+{
+  "appId": "neom.comp.app",
+  "appName": "neomCompApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

@@ -1,0 +1,7 @@
+{
+  "name": "neomCompApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
